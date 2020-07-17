@@ -1,0 +1,98 @@
+@charset="utf-8";
+
+li.active a
+{
+    border-bottom: 3px solid #000000;
+    
+}
+
+#footer
+{
+    background-color: #0f0f0f;
+}
+
+.navbar-brand
+{
+    text-align: justify;
+}
+
+#wll ul li a, #wlr ul li a
+{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+
+.fa-youtube, .fa-instagram, .fa-facebook-square
+{
+    color:white;
+}
+
+#formularz_caly, #formularz_tekst, #formularz
+{
+    background-color: #000000;
+}
+
+#frm input, #frm select, #frm textarea
+{
+    border-radius: 15px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    background-color: black;
+}
+
+input[type=text], input[type=email], textarea
+{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+button[type=submit]
+{
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    border-radius: 15px;
+    text-decoration: underline;
+}
+.list-group-item
+{
+    background-color: #343a40;
+    border: none;
+    
+}
+
+.list-group-item a
+{
+    text-decoration: none;
+    color: white;
+}
+
+#zapis1, #zapis2, #zapis3
+{
+    background-color: #72d400; 
+    color: black;
+}
+
+#WDance
+{
+    border-bottom: 3px solid #000000;
+}
+
+#D
+{
+    color: red;
+}
+
+#srodek
+{
+    color: #000000;
+    background-color: #5b646c;
+}
+#tekstlewy
+{
+    background-color:#343a40;
+}
